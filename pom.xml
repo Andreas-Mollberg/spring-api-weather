@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring_api_weather</artifactId>
+	<artifactId>spring-api-weather</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-api-weather</name>
 	<description>Demo project for Spring Boot</description>
